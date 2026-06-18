@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Rohit Singh
+# 👋 Hi, I'm Tanisha
 
 Computer Science Student
 
