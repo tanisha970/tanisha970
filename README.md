@@ -7,7 +7,7 @@ Computer Science Student
 
 📌 **Graphic Era Hill University, Dehradun**  
 
- **Reach me at:** [rohitsingh45672@gmail.com](mailto:rohitsingh45672@gmail.com)
+ **Reach me at:** [rikharitanuu@gmail.com](mailto:rikharitanuu@gmail.com)
 
 <div align="center">
 
@@ -17,13 +17,9 @@ Computer Science Student
 
  Connect With Me 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-singh-79143a318/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanisha-rikhari-37bb72320/)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/theunknown2728/)
-
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/rohitsin9ssz)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohitsingh0504)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://https://github.com/tanisha970)
 
 </div>
 
