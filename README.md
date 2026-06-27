@@ -53,23 +53,51 @@ I'm a Computer Science & Engineering student at **Graphic Era Hill University, D
 
 ## Featured Projects
 
-### System Monitor & Sandbox Environment
-> Python-based real-time resource monitoring with an isolated sandbox for untrusted code execution.
+### 🚦 DriveAlert — Real-Time Drowsiness Detection
+> Detects driver fatigue in real time using facial landmark analysis and triggers an alert before an accident occurs.
 
-- Implemented process scheduling, memory tracking, and CPU utilization visualizations
-- Designed a secure sandbox for safe script evaluation
-- **Tech:** Python, psutil, matplotlib, seccomp
+- Implemented 68-point facial landmark detection to monitor eye closure using Dlib
+- Achieved ~90% detection accuracy on live webcam input with alerts triggered in under 3 seconds
+- Built entirely in Python with OpenCV — runs on standard CPU hardware, no GPU required
+- **Tech:** Python · OpenCV · Dlib · Computer Vision
 
-### Smart Attendance System with Facial Recognition
-> Automated attendance marking using computer vision and identity verification.
-
-- Built using OpenCV for real-time face detection and recognition
-- Developed React frontend for attendance visualization
-- **Tech:** Python, OpenCV, React, Node.js, MongoDB
+🔗 [View Repository](https://github.com/tanisha970/DriveAlert)
 
 ---
 
-## GitHub Stats
+### 📅 Timetable Management System
+> Full-stack scheduling platform with genetic algorithm optimization and role-based access for 5 user types.
+
+- Engineered a genetic algorithm that reduced scheduling conflicts by ~70% vs manual assignment
+- Designed 10+ RESTful API endpoints for real-time timetable updates across subjects, classrooms, and teachers
+- Supports 5 distinct user roles: Master Admin, College Admin, HOD, Faculty, and Student
+- **Tech:** Django · React · PostgreSQL · Genetic Algorithm · JWT Auth
+
+🔗 [View Repository](https://github.com/tanisha970/Timetable-Management-System)
+
+---
+
+### 🎓 E-Learning Platform
+> Production-ready MERN stack learning platform with payments, quizzes, and role-based dashboards.
+
+- Integrated Razorpay payment gateway for course purchases with secure transaction handling
+- Built JWT-based authentication with role-specific dashboards for students and instructors
+- Deployed frontend on Vercel and backend on Render with MongoDB Atlas as the database
+- **Tech:** React · Node.js · Express · MongoDB · JWT · Razorpay
+
+🔗 [View Repository](https://github.com/tanisha970/E-learning-platform)
+
+---
+
+### 🩺 Diabetes Prediction System
+> End-to-end ML pipeline that predicts diabetes onset from patient health data with ~80% accuracy.
+
+- Trained an SVM classifier on 700+ patient records with 8 health attributes using Scikit-learn
+- Deployed as an interactive Streamlit web app with real-time prediction results
+- Applied data preprocessing, feature scaling, and model evaluation using Pandas and NumPy
+- **Tech:** Python · Scikit-learn · SVM · Streamlit · Pandas · NumPy
+
+🔗 [View Repository](https://github.com/tanisha970/Diabetes-Predictor)
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanisha970&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" />
